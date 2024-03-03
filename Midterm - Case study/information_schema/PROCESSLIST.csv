@@ -1,0 +1,3 @@
+ID,DB,HOST,INFO,STATE,TIME,USER,COMMAND
+8427044,azdummy,ec2-54-189-124-94.us-west-2.compute.amazonaws.com:62592,"SELECT id, name, company, Format(Gross,0) as gross, Gross as money FROM movies where name Like '__REFLECTED_VALUE__' order by money desc",executing,0,azdummyuser,Query
+

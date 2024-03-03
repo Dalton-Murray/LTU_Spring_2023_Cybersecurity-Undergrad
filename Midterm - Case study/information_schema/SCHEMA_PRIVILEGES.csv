@@ -1,0 +1,9 @@
+GRANTEE,IS_GRANTABLE,TABLE_SCHEMA,TABLE_CATALOG,PRIVILEGE_TYPE
+'azdummyuser'@'54.189.124.94',NO,azdummy,def,SELECT
+'azdummyuser'@'54.189.124.94',NO,azdummy,def,INSERT
+'azdummyuser'@'54.189.124.94',NO,azdummy,def,REFERENCES
+'azdummyuser'@'54.189.124.94',NO,azdummy,def,INDEX
+'azdummyuser'@'54.189.124.94',NO,azdummy,def,LOCK TABLES
+'azdummyuser'@'54.189.124.94',NO,azdummy,def,EXECUTE
+'azdummyuser'@'54.189.124.94',NO,azdummy,def,SHOW VIEW
+

@@ -1,0 +1,4 @@
+PACKED,COMMENT,NULLABLE,SUB_PART,INDEX_NAME,INDEX_TYPE,NON_UNIQUE,TABLE_NAME,COLUMN_NAME,COLLATION,INDEX_SCHEMA,SEQ_IN_INDEX,TABLE_SCHEMA,INDEX_COMMENT,TABLE_CATALOG,CARDINALITY
+1,<blank>,<blank>,Users,PRIMARY,BTREE,0,2,id,<blank>,azdummy,def,A,<blank>,azdummy,<blank>
+1,<blank>,<blank>,movies,PRIMARY,BTREE,0,1096,id,<blank>,azdummy,def,A,<blank>,azdummy,<blank>
+
